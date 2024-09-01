@@ -2,7 +2,7 @@ Hiya! If you're reading this, you've most likely found my Pokémon FireRed mod s
 
 LynnMod (I'm amazing with names) is a rebalance mod that aims to make every Pokémon at least useable in a regular playthrough. To achieve this, I've looked at every Pokémon and considered its moveset, stats, typing, and ability. 
 
-All Pokémon should be available. No more dealing with version exlusives.
+All Pokémon should be available. No more dealing with version exclusives.
 
 Some weak Pokémon (think of Pokémon like Onix) have seen quite an improvement in their base stat total, but for most Pokémon the stats have been shuffled around a little to better match their gameplan. 
 
