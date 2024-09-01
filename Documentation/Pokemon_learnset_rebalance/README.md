@@ -1,0 +1,1 @@
+Each Pokémon has had its moveset looked at. Apart from Magikarp and Ditto, all pokémon have had their movesets updated. It is no longer the case that Pokémon learn moves at a later level once they've evolved.
