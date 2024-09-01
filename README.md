@@ -27,3 +27,7 @@ The rival, elite four, and gym leaders have gotten tired of being beaten by a 10
 To install this mod, you will need a Pokémon FireRed rom (US version). I cannot help you with this. Once you have acquired your rom, you can download IPS patch and install the mod with an IPS patcher.
 
 This mod is a personal project I do in my spare time that lives and breathes. Therefore, it's liable to change based on my personal whims. Any feedback, bug report or otherwise, is welcome!
+
+*********************************************************************************************************************************************
+
+For small (uncommented) gameplay segments involving Pokémon LynnMod, go to my [youtube channel](https://www.youtube.com/channel/UCwBH5Y09XFP7QO8I6QLXG_A).
