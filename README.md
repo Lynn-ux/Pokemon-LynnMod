@@ -10,6 +10,8 @@ Movesets have been updated to always give reliable STAB options, generally paire
 
 TMs have had their focus shifted from powerful moves (Flamethrower, Thunderbolt, Ice Beam) to support-oriented moves (with a few exceptions related to gym leader TMs). Generally, you'll find that TMs are no longer required to give a Pokémon good offensive moves. Instead, they exist to solve specific problems you might run into for individual trainers.
 
+All move tutors have been removed. At the location of some move tutors, you'll find a TM instead.
+
 Some abilities have been changed to make a little more sense. This means that a few Pokémon have gained levitate. The "activate on contact 30% of the time" abilities have been removed. No more Poison Point, Static, Flame Body, Effect Spore, or Cute Charm.
 
 With the gen 1-remakes having poor type distribution, some Pokémon have had their types changed. There are additional Ghost, Dragon, and Dark types in Kanto now. Magnemite and Magneton are still the only steel types.
